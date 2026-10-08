@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "tasks": [],
+  "tags": [
+    {
+      "name": "Поиск работы",
+      "color": "#5b8fbd",
+      "description": "Вакансии, отклики, резюме и собеседования",
+      "id": "default-tag-0"
+    },
+    {
+      "name": "Обучение",
+      "color": "#b29b54",
+      "description": "Курсы, чтение и новые навыки",
+      "id": "default-tag-1"
+    },
+    {
+      "name": "Программирование",
+      "color": "#728363",
+      "description": "Разработка и улучшение проектов",
+      "id": "default-tag-2"
+    },
+    {
+      "name": "Тестирование",
+      "color": "#529b8c",
+      "description": "Проверки, автотесты и качество",
+      "id": "default-tag-3"
+    },
+    {
+      "name": "Вайбкодинг",
+      "color": "#9b7aba",
+      "description": "Эксперименты и разработка с AI",
+      "id": "default-tag-4"
+    },
+    {
+      "name": "Личное",
+      "color": "#bd7888",
+      "description": "Задачи для себя и повседневные планы",
+      "id": "default-tag-5"
+    }
+  ]
+}
